@@ -1,0 +1,21 @@
+.error {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    background-color: #464545;
+    color: lightgreen;
+}
+
+.errorbutton {
+    background-color: #454546; 
+    color: white;    
+    text-decoration: none;
+    margin: 2px;
+    border: none;
+    border-radius: 4px;
+}
+
+.error p {
+    margin: 4px;
+}
+

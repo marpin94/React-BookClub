@@ -1,0 +1,42 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-content: stretch;
+    align-items: flex-start;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    
+    background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../images/background_3.jpg);
+    background-position-x: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.main h2, p {
+    margin: 16px;
+    text-align: left;
+    color:white;
+    text-shadow: 4px 4px 6px black;
+    font-size: 2em;
+}
+
+/* .title p {
+   
+    margin: 16px;
+    color:white;
+    text-shadow: 2px 2px 4px black;
+    font-size: 1.5em;
+} */
+
+
+.quote {
+   max-width: 50%;
+}
