@@ -5,7 +5,7 @@ Bookclub allows users to keep track of books they have read, are currently readi
 Screenshot shows homepage before a user has logged in. Only links to register and login components are available. 
 ![image](https://user-images.githubusercontent.com/37182388/151635015-8e75c531-be9a-4dd6-a4f6-eae6936d1d57.png)
 
-Registration page, form has validation will not allow duplicate users or incomplete fields. Authorization relies on web tokens and a user will remain logged in while token permits.
+Registration page, the form has validation and will not allow duplicate users or incomplete fields. Authorization relies on web tokens and a user will remain logged in while token permits.
 
 ![image](https://user-images.githubusercontent.com/37182388/151635077-c2d3d2f7-7f70-4ed6-99fb-d12b57125dad.png)
 
